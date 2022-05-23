@@ -6,15 +6,10 @@ ALGORITMO DO EXERCÍCIO
 
 Inicio
 
-Enquanto existe nota? faça    
-   Digitar a nota do aluno da prova AC1
-   Digitar a nota do aluno da prova ac2
-   Digitar a nota do aluno da prova geral
-   Digitar a nota do aluno da prova final
-      Calcular a media aritmetica das notas do aluno
-       Enquanto a nota do aluno for igual ou maior que 5 faça
-        mostrar a media e aprovado
-    Fim Enquanto
-  Fim Enquanto
-Fim
+![image](https://user-images.githubusercontent.com/103973489/169919954-91b5b410-daab-422f-83b0-3a741501524d.png)
 
+
+Fim 
+
+__________________________________________________________________________________________
+![Media_4provas](https://user-images.githubusercontent.com/103973489/169920005-cb21121e-b42a-411e-9b9e-3f282a9a5091.png)
