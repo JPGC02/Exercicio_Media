@@ -6,7 +6,13 @@ ALGORITMO DO EXERCÍCIO
 
 Inicio
 
-![image](https://user-images.githubusercontent.com/103973489/169920370-4e8602d6-398d-41cd-b328-5981e0ac439f.png)
+     Digite Nota da AC1
+     Digite Nota da AC2
+     Digite Nota da AG
+     Digite Nota da AF
+        Calcular media aritmetica das notas
+         nquanto a nota do aluno for igual ou maior que 5 faça
+     Mostrar a Media e Aprovado ou reprovado
 
 Fim 
 
